@@ -5,5 +5,7 @@ README
 hideaki
 
 
-fork‚µ‚Ä‚İ‚Ü‚µ‚½
+forkã—ã¦ã¿ãŸ
+UTF-8ã«å¤‰æ›
+
 takayoshi
